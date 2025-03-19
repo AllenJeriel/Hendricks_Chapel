@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer bg-dark text-white text-center p-4">
       <div className="container">
         <h4>Contact Us</h4>
-        <p>Email: jekoshy@syr.edu | Phone: (315) 415-6241</p>
+        <p>Email: jekoshy@syr.edu</p>
         
         <div className="social-links">
           <a href="https://www.linkedin.com/in/jonathan-katikala/" target="_blank" rel="noreferrer" className="social-icon mx-3">
